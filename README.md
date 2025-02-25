@@ -3,9 +3,8 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
-Explain what software engineering is and discuss its importance in the technology industry.
-
+Explain what software engineering is and discuss its importance in the technology industry
+-
 Software Engineering is the process of designing, developing, testing, and maintaining software. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software.
 
 •	Software engineering includes a variety of techniques, tools, and methodologies, including requirements analysis, design, testing, and maintenance useful in the world of tech.
@@ -23,10 +22,16 @@ Software Engineering is the process of designing, developing, testing, and maint
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+-
+I) The development of programming languages like Fortran and C represents an evolution in development in how humans communicate with machines, moving from raw binary to more structured, user-friendly tools.
+
+II) The establishment of software engineering as a discipline in the 1960s was a response to a crisis in computing—a moment when the tech world realized that building software wasn’t just a craft but needed structure, rigor, and a proper framework.
+
+III) The advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s. Structured programming emerged in the 1970s as a response to chaotic "spaghetti code," with pioneers advocating for clear, logical control structures (sequence, selection, iteration) to make software more reliable and maintainable, shaping languages like Pascal and C. While Agile methodologies rose in the 2000s, sparked by the 2001 Agile Manifesto, to prioritize flexibility and speed over rigid plans, using iterative cycles like Scrum sprints to adapt quickly to changing demands in the fast-paced internet era.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+-
 Stage1: Planning and requirement analysis
 Requirement Analysis is the most important and necessary stage in SDLC. The senior members of the team perform it with inputs from all the stakeholders and domain experts or SMEs in the industry.
 
@@ -49,27 +54,33 @@ Once the software is certified, and no bugs or errors are stated, then it is dep
 Stage7: Maintenance
 Once when the client starts using the developed systems, then the real issues come up and requirements to be solved from time to time.
 
-
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+-
+Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
+Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+-
+Software Developer: Responsible for writing code and implementing software solutions.
+Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+-
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+-
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+-
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
+-
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+-
